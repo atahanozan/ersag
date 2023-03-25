@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392255650866",
+    "project_id": "sunaersag",
+    "storage_bucket": "sunaersag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392255650866:android:728d37385e3ae3b4dc502b",
+        "android_client_info": {
+          "package_name": "com.fisis.ersagile.ersag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392255650866-vugd8jfdil369tngur6vqbgs7h6s5hkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZdTbSiCpMlaTEfwHt8Exkkd04ne92J50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392255650866-vugd8jfdil369tngur6vqbgs7h6s5hkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
